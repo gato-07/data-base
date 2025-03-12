@@ -1,0 +1,33 @@
+Para el diagrama entidad relacion tenemos.
+	Libros es una entidad
+	Estudiantes es una entidad
+
+
+
+
+
+
+Libro:
+	ID #clave primaria
+	titulo
+	autor
+	año de publicacion
+	
+
+
+Estudiante:
+	RUT #clave primaria
+	Nombre
+	Correo
+	Historial (Estructura bidimensional)
+
+	
+Historial sera la relacion entre Libro y Estudiante
+
+Historial:
+	RUT		#aca, RUT y ID son claves foraneas
+	ID (Del libro)
+	
+	Fecha prestamo	#a su vez, Historial tambien puede tener atributos, aunque sea una relacion (las relaciones pueden tener atributos)
+	Fecha devolucion estimada
+	Fecha devolucion real
