@@ -28,11 +28,23 @@ Historial:
 	Fecha devolucion estimada
 	Fecha devolucion real
 Ejercicios:
+
+
 	Caso #1: Sistema de gestión de escuela universitaria
 
 Una Escuela de Ingeniería Civil en Informática quiere un sistema de gestión que le permite manejar la información de las distintas asignaturas que ofrece, como su nombre y código, el o los profesores responsables y la lista de estudiantes actualmente inscritos en cada asignatura.
 
-caso 1:
+
+	Caso #2: Sistema de reserva de un teatro
+
+Un teatro local desea implementar un nuevo sistema de reservas para gestionar la venta de entradas y facilitar la administración de los espectáculos. El teatro presenta una variedad de obras de teatro, conciertos y eventos. Además de la venta de entradas, el sistema debe rastrear información sobre los eventos y quienes son los clientes que asisten a los eventos.
+
+
+	Caso #3: Torneo de ajedrez
+
+En un torneo de ajedrez, se necesita gestionar la información de los jugadores, las partidas y los resultados. El torneo cuenta con jugadores, cada uno identificado por un ID único, nombre, nacionalidad y ranking Elo. Los jugadores participan en partidas, cada una con un número único, fecha y los dos jugadores que la juegan. Las partidas tienen un resultado, que puede ser victoria, empate o derrota. Los jugadores reciben puntos: 1 por victoria, 0.5 por empate y 0 por derrota. Al final del torneo, el puntaje total de cada jugador determina su clasificación, siendo los jugadores con más puntos los ganadores.
+
+
 	
 
 
