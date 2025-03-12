@@ -3,10 +3,6 @@ Para el diagrama entidad relacion tenemos.
 	Estudiantes es una entidad
 
 
-
-
-
-
 Libro:
 	ID #clave primaria
 	titulo
@@ -31,3 +27,19 @@ Historial:
 	Fecha prestamo	#a su vez, Historial tambien puede tener atributos, aunque sea una relacion (las relaciones pueden tener atributos)
 	Fecha devolucion estimada
 	Fecha devolucion real
+Ejercicios:
+	Caso #1: Sistema de gestión de escuela universitaria
+
+Una Escuela de Ingeniería Civil en Informática quiere un sistema de gestión que le permite manejar la información de las distintas asignaturas que ofrece, como su nombre y código, el o los profesores responsables y la lista de estudiantes actualmente inscritos en cada asignatura.
+
+caso 1:
+	
+
+
+
+
+
+
+
+
+
